@@ -47,7 +47,21 @@ Disk Scheduling Visualizer is an Operating Systems project developed in C++ to s
 * JSON data exchange
 * Integration of C++ with web technologies
 
+## Project Visualization
+
+### FCFS Visualization
+![FCFS Visualization](FCFS.png)
+
+### SCAN Visualization
+![SCAN Visualization](SCAN.png)
+
+### C-SCAN Visualization
+![C-SCAN Visualization](C-Scan.png)
+
+### Algorithm Comparison Dashboard
+![Algorithm Comparison](COMPARISON.png)
 
 
-Operating Systems Project
+
+
 
